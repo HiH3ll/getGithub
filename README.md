@@ -17,7 +17,7 @@
         <link rel="stylesheet" href="fonts/stylesheet.css">
         <link rel="stylesheet" href="css/font-awesome.min.css">
         <link rel="stylesheet" href="css/bootstrap.min.css">
-        <!--        <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">-->
+        <!--        <link rel="stylesheet" href="css/bootstrap-theme.min.css">-->
 
 
         <!--For Plugins external css-->
