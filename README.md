@@ -15,9 +15,9 @@
         <!--<link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,600,700' rel='stylesheet' type='text/css'>-->
         <link rel="stylesheet" href="fonticons.css">
         <link rel="stylesheet" href="fonts/stylesheet.css">
-        <link rel="stylesheet" href="css/font-awesome.min.css">
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <!--        <link rel="stylesheet" href="css/bootstrap-theme.min.css">-->
+        <link rel="stylesheet" href="font-awesome.min.css">
+        <link rel="stylesheet" href="bootstrap.min.css">
+        <!--        <link rel="stylesheet" href="bootstrap-theme.min.css">-->
 
 
         <!--For Plugins external css-->
