@@ -14,7 +14,7 @@
 
         <!--<link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,600,700' rel='stylesheet' type='text/css'>-->
         <link rel="stylesheet" href="fonticons.css">
-        <link rel="stylesheet" href="fonts/stylesheet.css">
+        <link rel="stylesheet" href="/stylesheet.css">
         <link rel="stylesheet" href="font-awesome.min.css">
         <link rel="stylesheet" href="bootstrap.min.css">
         <!--        <link rel="stylesheet" href="bootstrap-theme.min.css">-->
@@ -419,16 +419,16 @@
             <a href="#"><i class="fa fa-chevron-up"></i></a>
         </div>
 
-        <script src="assets/js/vendor/jquery-1.11.2.min.js"></script>
-        <script src="assets/js/vendor/bootstrap.min.js"></script>
-        <script src="assets/js/vendor/isotope.min.js"></script>
+        <script src="/js/vendor/jquery-1.11.2.min.js"></script>
+        <script src="/js/vendor/bootstrap.min.js"></script>
+        <script src="/js/vendor/isotope.min.js"></script>
 
-        <script src="assets/js/jquery.easypiechart.min.js"></script>
-        <script src="assets/js/jquery.mixitup.min.js"></script>
+        <script src="/js/jquery.easypiechart.min.js"></script>
+        <script src="/js/jquery.mixitup.min.js"></script>
 
 
-        <script src="assets/js/plugins.js"></script>
-        <script src="assets/js/main.js"></script>
+        <script src="/js/plugins.js"></script>
+        <script src="/js/main.js"></script>
 
     </body>
 </html>
